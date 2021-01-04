@@ -1,0 +1,93 @@
+*{
+    color:#15093fee;
+}
+
+#nav{
+    background-color: crimson;
+    height: 53px;
+    position: relative;
+    top: 40px;
+    border-bottom: 1px;
+}
+
+#m{
+    /*background-color: crimson;
+    padding-left: 40px;*/
+    font-size: 30px;
+    border: 1px solid black;
+    margin-right: 1260px;
+    padding-left: 6px;
+    position: relative;
+    top: -48px;
+    left: 6%;
+    background: blanchedalmond;
+    border-radius: 50px;
+}
+
+#login{
+    position: relative;
+    top: -99px;
+    left: 81%;    
+    background-color: crimson;
+    color: white;
+    font-size: 15px;
+    border: 0px;
+
+}
+
+#account{
+    position: relative;
+    left: 83%;
+    top: -99px;
+    background-color: crimson;
+    color: white;
+    font-size: 15px;
+    border: 1px solid black;
+    padding: 5px;
+
+}
+
+#left{
+    padding-left: 10px;
+    border: 1px solid black;
+    width: 150px;
+    margin-left: 70px;
+    box-shadow: 0px 0px 10px #777777;
+    padding-bottom: 15px;
+    margin-bottom: 100px;
+}
+
+#breakfast{
+    margin-left: 70px;
+    position: relative;
+    top: -85px;
+}
+
+#location{
+    font-size:small;
+    margin-top: 10px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#select-location{
+    font-size:medium;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#differentitems{
+    font-size:medium;
+    font-weight: bold;
+}
+
+#cost{
+    font-size: medium;
+    font-weight: bold;
+}
+
+#sorting{
+    font-size: medium;
+    font-weight: bold;
+
+}
